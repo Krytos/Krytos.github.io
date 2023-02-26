@@ -305,7 +305,7 @@ html {
 }
 
 ::-webkit-scrollbar {
-  width: 8px;
+  width: 1rem;
   background-color: rgba(245, 245, 245, 0);
 }
 
